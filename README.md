@@ -39,6 +39,5 @@ Attendre que l'utilisateur interagisse avec l'application.
 
 Étape 5 : Tests et améliorations
 
-Tester votre application en générant différents mots de passe.
 Assurer que la copie dans le presse-papiers fonctionne correctement.
 Si nécessaire, apporter des améliorations à l'interface utilisateur ou à la fonction de génération de mots de passe.
