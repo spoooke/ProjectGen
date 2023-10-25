@@ -33,13 +33,13 @@ def generate_password():
 app = tk.Tk()
 
 # Définir le titre de la fenêtre principale
-app.title("Générateur de Mot de Passe")
+app.title("Spooke's Gen")
 
 # Définir la taille initiale de la fenêtre
 app.geometry("400x250")
 
 # Ajouter un libellé pour expliquer le but du programme
-label = tk.Label(app, text="Bienvenue dans le Générateur de Mot de Passe")
+label = tk.Label(app, text="Générateur de Mot de Passe")
 label.pack()
 
 # Ajouter un champ de texte pour la longueur du mot de passe
